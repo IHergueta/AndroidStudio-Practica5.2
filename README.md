@@ -1,0 +1,3 @@
+# AndroidStudio-Practica5.2
+En esta Práctica hemos creado una aplicación de ointar, utilizando canvas, paths, paints...
+Tiene dos tipos de pintura, el emboss y el blur, también se podrá guardar el dibujo en la galería.
